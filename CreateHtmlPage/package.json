@@ -1,0 +1,9 @@
+{
+  "name": "create-html-page",
+  "version": "0.0.0",
+  "description": "CreateHtmlPage",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
